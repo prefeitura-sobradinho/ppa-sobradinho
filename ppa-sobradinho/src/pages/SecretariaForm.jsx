@@ -1,0 +1,1 @@
+export default function SecretariaForm({user}){return <div>Form {user.nome}</div>}
